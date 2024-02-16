@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: DBT_JSANCHEZ
+    database: JSV_DBT_CERTIFICATION
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments
